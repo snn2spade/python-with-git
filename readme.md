@@ -5,8 +5,8 @@ Available version
 
 - slim base version with git:
   - `3.6.8-slim` – 240 MB
-  - `3.7.5-slim` –  MB
+  - `3.7.5-slim` –  283 MB
   
 - alpine base version with git:
   - `3.6.8-alpine` – 94.7 MB
-  - `3.7.5-alpine` –  MB
+  - `3.7.5-alpine` –  115 MB
